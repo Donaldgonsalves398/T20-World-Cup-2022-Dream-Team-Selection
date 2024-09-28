@@ -87,8 +87,9 @@ We'll start by importing data from CSV files into Power BI tables and then perfo
 
 Below is the preview of the data:-
 
+
 <p align="center">
-  <img width="700" height="400" src="https://github.com/yash-pimpale/T20_World_Cup_2022_Dream_Team_Selection/blob/main/Media/Batting_Summary_Table.png">
+  <img width="700" height="400" src="https://github.com/Donaldgonsalves398/T20-World-Cup-2022-Dream-Team-Selection/blob/main/Media/Batting_Summary_Table.png">
 </p>
 
 ### 2. Creating Key Parameters
