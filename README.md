@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/yash-pimpale/T20_World_Cup_2022_Dream_Team_Selection/blob/main/Media/T20I_WC_logo.jpg">
+  <img width="400" height="300" src="https://github.com/Donaldgonsalves398/T20-World-Cup-2022-Dream-Team-Selection/tree/main/Media/T20I_WC_logo.jpg">
 </p>
 
 # T20 World Cup 2022 Dream Team Selection
